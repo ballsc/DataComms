@@ -13,6 +13,7 @@ This project simulates a basic client server connection with no dropped messages
 ## Project 2
 
 This project simulates a basic client server conenction with efficient error correction in C++.
+
 ---
 
 ## Project 3
